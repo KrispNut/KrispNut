@@ -1,71 +1,77 @@
-Ello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarim Rabbi
-====================================================================================================================================
+# 👋 Hey, I'm Sarim Rabbi  
 
---------------------------------------------------------------
-
-* ✉️  You can contact me at [sarimrabbi@gmail.com](mailto:sarimrabbi@gmail.com)
-
-<a href="https://www.github.com/KrispNut" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KrispNut?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="96" height="36" alt="Flask" /></a>
-<a href="https://eel.py" target="_blank" rel="noreferrer"><img src="https://png.pngtree.com/png-vector/20220914/ourmid/pngtree-eel-vector-png-image_6174261.png" width="36" height="36" alt="EeL" /></a>
-<a href="https://www.dolphinanty.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/86055416?s=200&v=4" width="36" height="36" alt="Dolphin Anty" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" width="36" height="36" alt="Selenium" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="36" height="36" alt="Flutter" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="36" height="36" alt="REST APIs" /></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://unity.com/favicon.ico" width="36" height="36" alt="Unity" /></a>
-<a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://godotengine.org/favicon.ico" width="36" height="36" alt="Godot" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="36" height="36" alt="C#" /></a>
-<a href="https://unity.com/unity/features/ar" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/G/google-arcore-logo-97442BBBD1-seeklogo.com.png" width="36" height="36" alt="AR" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Flutter+Developer;UI%2FUX+Enthusiast;Automation+%26+AI+Explorer;Always+Learning+%26+Building" />
 </p>
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/KrispNut" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </picture>
-</a>
-<a href="https://www.linkedin.com/in/sarim-rabbi-540277159" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </picture>
-</a>
+<p align="center">
+  🎯 <b>Flutter Developer</b> | Designer | Builder of neat things <br>
+  ✉️ <b>Reach me at</b> <a href="mailto:sarimrabbi@gmail.com">sarimrabbi@gmail.com</a> <br>
+  🌐 Exploring AI, automation, and creative coding
 </p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
-<div>
-		
-</div>
-<div class="container">
-    <div class="row">
-        <div class="col-6">
-            <a href="http://www.github.com/KrispNut">
-                <img src="https://github-readme-stats.vercel.app/api?username=KrispNut&show_icons=true&hide=&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&count_private=true" alt="KrispNut's GitHub stats" class="img-fluid" />
-            </a>
-        </div>
-        <div class="col-6">
-            <a href="http://www.github.com/KrispNut">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrispNut&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&count_private=true" alt="Top Languages" class="img-fluid" />
-            </a>
-        </div>
-    </div>
-</div>
+## 🚀 Skills  
 
+<p align="center">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="40" alt="Flutter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="40" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7P4cv69ylshq5o6PJpQjnrl1bdLikMKbqw&s" height="40" alt="Flask" />
+  <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="40" alt="Selenium" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="40" alt="REST APIs" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" width="40" alt="Unity" />
+  <img src="https://godotengine.org/favicon.ico" width="40" alt="Godot" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjBZoAti5YN9cO63q2fZT5vih-JO60vRw2A&s" width="40" alt="C#" />
+  <img src="https://cdn.worldvectorlogo.com/logos/google-arcore.svg" width="40" alt="AR" />
+  <img src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="40" alt="Figma" />
+</p>  
+
+---
+
+## 🌐 Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarim-rabbi-540277159" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrispNut&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrispNut&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" height="160" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrispNut&theme=radical&hide_border=true" height="160" />
+</p>  
+
+---
+
+## ✨ Highlights  
+
+- 📱 <b>Flutter Developer</b> → Smooth cross-platform mobile apps  
+- 🎨 Obsessed with <b>UI/UX design</b> & performance optimization  
+- ⚡ Automation tools → <b>Python + Selenium</b>  
+- 🎮 Tinkering with <b>Unity & Godot</b> for game dev  
+- 🌌 Exploring <b>AR with ARCore</b>  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrispNut/KrispNut/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐️ From [KrispNut](https://github.com/KrispNut)  
