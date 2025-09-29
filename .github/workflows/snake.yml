@@ -2,14 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"   # runs daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 👈 gives the bot permission to push
+      contents: write   # allow pushing
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -18,14 +18,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: KrispNut
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg   # 👈 direct output here
 
       - name: Push to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B output
-          mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
-          git commit -m "Generated contribution snake"
+          git commit -m "Generated contribution snake" || echo "No changes to commit"
           git push origin output --force
