@@ -9,23 +9,24 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allows pushing to the repo
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: KrispNut
           outputs: |
-            ./github-contribution-grid-snake.svg
+            ./github-contribution-snake-dark.svg?palette=github-dark
+            ./github-contribution-snake-light.svg?palette=github-light
 
       - name: Push Snake to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B output
-          git add github-contribution-grid-snake.svg
+          git add github-contribution-snake-*.svg
           git commit -m "chore: update snake animation" || echo "No changes"
           git push origin output --force
