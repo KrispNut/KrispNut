@@ -66,11 +66,16 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrispNut/KrispNut/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrispNut/KrispNut/output/github-contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrispNut/KrispNut/output/github-contribution-snake-light.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KrispNut/KrispNut/output/github-contribution-snake-light.svg" />
+  </picture>
 </p>
+
 
 ---
 
