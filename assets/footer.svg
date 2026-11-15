@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="Thanks for stopping by"><title>Thanks for stopping by</title><style>
+.h{font:800 30px 'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif;fill:#e6edf3}.c{font:400 16px 'SF Mono','Fira Code','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.k{fill:#ff7b72}.f{fill:#d2a8ff}.p{fill:#8b949e}
+.cur{fill:#2f81f7;animation:bl 1.06s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.w1{fill:#0553b1;opacity:.45;animation:w1 16s linear infinite}
+.w2{fill:#54c5f8;opacity:.14;animation:w2 11s linear infinite reverse}
+.w3{fill:#54c5f8;opacity:.22;animation:w3 8s linear infinite}
+@keyframes w1{to{transform:translateX(360px)}}@keyframes w2{to{transform:translateX(260px)}}
+@keyframes w3{to{transform:translateX(200px)}}
+</style><defs><clipPath id="fr"><rect width="900" height="160" rx="10"/></clipPath></defs><g clip-path="url(#fr)"><rect width="900" height="160" fill="#0d1117"/><path class="w1" d="M-360 132q90 -16 180 0t180 0q90 -16 180 0t180 0q90 -16 180 0t180 0q90 -16 180 0t180 0q90 -16 180 0t180 0V160H-360z"/><path class="w2" d="M-260 140q65 -12 130 0t130 0q65 -12 130 0t130 0q65 -12 130 0t130 0q65 -12 130 0t130 0q65 -12 130 0t130 0q65 -12 130 0t130 0V160H-260z"/><path class="w3" d="M-200 147q50 -9 100 0t100 0q50 -9 100 0t100 0q50 -9 100 0t100 0q50 -9 100 0t100 0q50 -9 100 0t100 0q50 -9 100 0t100 0q50 -9 100 0t100 0V160H-200z"/><text class="h" x="450" y="60" text-anchor="middle">Thanks for stopping by</text><text class="c" xml:space="preserve" x="243.6" y="94" textLength="412.8"><tspan class="k">while </tspan><tspan class="p">(alive) { </tspan><tspan class="f">learn</tspan><tspan class="p">(); </tspan><tspan class="f">build</tspan><tspan class="p">(); </tspan><tspan class="f">ship</tspan><tspan class="p">(); }</tspan></text><rect class="cur" x="661.4" y="79" width="2" height="19" rx="1"/></g><rect x=".5" y=".5" width="899" height="159" rx="9.5" fill="none" stroke="#30363d"/></svg>
